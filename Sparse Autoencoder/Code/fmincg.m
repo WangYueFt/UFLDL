@@ -25,6 +25,7 @@ function [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)
 % Usage: [X, fX, i] = fmincg(f, X, options, P1, P2, P3, P4, P5)
 %
 % See also: checkgrad 
+
 %
 % Copyright (C) 2001 and 2002 by Carl Edward Rasmussen. Date 2002-02-13
 %
